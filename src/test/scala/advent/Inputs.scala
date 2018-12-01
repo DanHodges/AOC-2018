@@ -1,0 +1,3 @@
+package advent
+
+object Inputs {}
